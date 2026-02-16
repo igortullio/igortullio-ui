@@ -1,5 +1,11 @@
 # @igortullio-ui/react
 
+## 3.4.1
+
+### Patch Changes
+
+- 442a2a6: export alertVariants from alert component
+
 ## 3.4.0
 
 ### Minor Changes
